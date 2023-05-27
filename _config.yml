@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Yuna Hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science Ph.D. @UW-Madison"
+  bio              : "Computer Science Ph.D. \n@UW-Madison"
   location         : "Madison, WI USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yunahwang at cs dot wisc dot edu"
+      url: "yunahwang@cs.wisc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
