@@ -7,7 +7,7 @@ main:
     url: /research/    
 
   - title: "More About Me"
-    url: /about/    
+    url: /more-about/    
     
   - title: "Blog Posts"
     url: /year-archive/
