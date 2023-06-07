@@ -12,6 +12,8 @@ redirect_from:
 
 <p align="justify">I studied Artificial Intelligence and Statistics at <a href="https://www.skku.edu/eng/" target="_blank" class="link_grey">Sungkyunkwan University</a>, Seoul, South Korea for my undergraduate degrees. <a href="https://hailab.skku.edu/people/current#h.dktub3ux3t9c" target="_blank" class="link_grey">Professor Hayeon Song</a>, affiliated with the <a href="https://hailab.skku.edu/hai-lab" target="_blank" class="link_grey">Human-AI Interaction Laboratory</a> led me to the field of Computer-Mediated Communication, and Human-Computer/Human-Robot Interaction. Our work on social media and social support during COVID-19 was accepted to *the 72nd Annual International Communication Association Conference*, held at France.</p>
 
+<p align="justify">Here is my most recent <a href="https://drive.google.com/file/d/1Z-5VjzLUb9eEhu97ol1lzgkdfHIbtAca/view?usp=sharing" target="_blank" class="link_grey">CV</a>(updated: June 2023).</p>
+
 ***
 
 ### Updates:
