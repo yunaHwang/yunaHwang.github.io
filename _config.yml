@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuna Hwang"
-  avatar           : "./images/photo2_Y.HWANG.jpeg"
+  avatar           : "photo2_Y.HWANG.jpeg"
   bio              : "CS PhD student @UW-Madison"
   location         : "Madison, WI, USA"
   employer         :
